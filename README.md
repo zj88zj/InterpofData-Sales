@@ -3,7 +3,7 @@
 <h2>Report Link</h2>
 
 <h2>Summary:</h2>
-<p></p>
+<p>The objective of this study is to find ways to increase sales of orthopedic material to hospitals in the United States. The dataset is a subset of 3000 hospitals chosen at random. We want to select a group who have high consumption of such equipment but where our sales are low.</p>
 
 <h2>Keywords:</h2>
 <p></p>
